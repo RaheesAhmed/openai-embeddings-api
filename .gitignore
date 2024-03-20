@@ -1,0 +1,4 @@
+/node_modules
+.env
+/data/Chatbot Data.docx
+/data/chatbot-data.txt
